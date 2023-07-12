@@ -11,3 +11,8 @@ Desafio técnico para vaga de Cientista de Dados (NLP).
  - Levantar hipóteses a respeito do evento de Churn
  - Sugestões de ações para reduzir o Churn
  - Roadmap de evolução de produto analítico
+
+📁 **Organização do diretório:**
+app -> Pasta com os scripts em python para automatização do pipeline de dados
+data -> Todos os arquivos de dados (Base original, base tratada, prompt utilizado)
+doc -> Todas as imagens e arquivos de documentação do projeto
